@@ -1,4 +1,4 @@
-# Heart-Attack-Data-Analysis
+# Heart Attack Data Analysis
 
 ## Summary
 In this project, we analyzed a medical dataset obtained from kaggle to build a predictive model for heart attack detection. The dataset included vital signs and biochemical markers such as Age, Gender, Heart Rate, Systolic blood pressure, Diastolic blood pressure, Blood Sugar, Troponin, Ck-MB readings. We conducted thorough exploratory data analysis using visualizations, correlation matrices, and statistical testing to identify significant features. A new feature, Pulse Pressure, was engineered to enhance predictive insight.
