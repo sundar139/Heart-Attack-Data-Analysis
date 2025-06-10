@@ -62,15 +62,16 @@ The outcomes of this project suggest that biomarkers like **Troponin** and **CK-
 ## Dataset Description
 
 The dataset has 9 column:
-Age: The patient's age
-Gender: Biological sex of the patient (The male is set to 1 and the female to 0)
-Heart Rate: The number of heartbeats per minute
-Systolic Blood Pressure: The pressure in arteries when the heart contracts
-Diastolic Blood Pressure: The pressure in arteries between heartbeats
-Blood Sugar: The patient's blood glucose level
-Ck-mb: A cardiac enzyme released during heart muscle damage
-Troponin:A highly specific protein biomarker for heart muscle injury
-Result: The outcome label indicating whether or not the patient experienced a heart attack
+
+- Age: The patient's age
+- Gender: Biological sex of the patient (The male is set to 1 and the female to 0)
+- Heart Rate: The number of heartbeats per minute
+- Systolic Blood Pressure: The pressure in arteries when the heart contracts
+- Diastolic Blood Pressure: The pressure in arteries between heartbeats
+- Blood Sugar: The patient's blood glucose level
+- Ck-mb: A cardiac enzyme released during heart muscle damage
+- Troponin:A highly specific protein biomarker for heart muscle injury
+- Result: The outcome label indicating whether or not the patient experienced a heart attack
 
 ## Dataset Reference
 
