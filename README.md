@@ -1,5 +1,7 @@
 # 🫀 Heart Attack Prediction and Data Analysis
 
+#### Dashboard - https://public.tableau.com/views/Dashboard_17507992974690/HeartAttackDataAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ## Introduction
 
 This project explores a heart attack dataset collected from **Zheen Hospital in Erbil, Iraq**, spanning from January 2019 to May 2019. The primary goal is to analyze and visualize various clinical and demographic factors associated with heart attacks and build a predictive model with high accuracy. The dataset contains 9 features, including biomarkers such as **Troponin** and **CK-MB**, vital signs like **heart rate and blood pressure**, and demographic attributes such as **age and gender**.
